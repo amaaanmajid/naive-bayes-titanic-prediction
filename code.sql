@@ -1,0 +1,1 @@
+I'm ready to help you convert database queries from one language to another.
